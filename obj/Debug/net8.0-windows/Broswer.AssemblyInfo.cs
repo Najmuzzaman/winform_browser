@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Broswer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7f1b9aa9d2d59f490c68592b5414a7eaec7a90a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6a75f6a3faedfacdefa790eea7bff9b254b8654")]
 [assembly: System.Reflection.AssemblyProductAttribute("Broswer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Broswer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\app\\Browser\\Broswer\\Broswer.csproj": {}
+    "D:\\app\\Browser\\Broswer.csproj": {}
   },
   "projects": {
-    "D:\\app\\Browser\\Broswer\\Broswer.csproj": {
+    "D:\\app\\Browser\\Broswer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\app\\Browser\\Broswer\\Broswer.csproj",
+        "projectUniqueName": "D:\\app\\Browser\\Broswer.csproj",
         "projectName": "Broswer",
-        "projectPath": "D:\\app\\Browser\\Broswer\\Broswer.csproj",
+        "projectPath": "D:\\app\\Browser\\Broswer.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\app\\Browser\\Broswer\\obj\\",
+        "outputPath": "D:\\app\\Browser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
