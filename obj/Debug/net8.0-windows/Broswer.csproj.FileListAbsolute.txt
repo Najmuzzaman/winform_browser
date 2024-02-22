@@ -1,0 +1,17 @@
+D:\app\Browser\Broswer\bin\Debug\net8.0-windows\Broswer.exe
+D:\app\Browser\Broswer\bin\Debug\net8.0-windows\Broswer.deps.json
+D:\app\Browser\Broswer\bin\Debug\net8.0-windows\Broswer.runtimeconfig.json
+D:\app\Browser\Broswer\bin\Debug\net8.0-windows\Broswer.dll
+D:\app\Browser\Broswer\bin\Debug\net8.0-windows\Broswer.pdb
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.MainForm.resources
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.csproj.GenerateResource.cache
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.AssemblyInfoInputs.cache
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.AssemblyInfo.cs
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.csproj.CoreCompileInputs.cache
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.sourcelink.json
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.dll
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\refint\Broswer.dll
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.pdb
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\Broswer.genruntimeconfig.cache
+D:\app\Browser\Broswer\obj\Debug\net8.0-windows\ref\Broswer.dll
